@@ -13,28 +13,30 @@ public class DamagePopUp : MonoBehaviour
     void Start()
     {
         _target = this.gameObject;
-        DamagePopupFunc(-5);
+        DamagePopupFunc(5);
     }
 
     // Update is called once per frame
+    
     void DamagePopupFunc(int hpChange)
     {
         _healthChangeValue = hpChange;
         _healthIndicator = new GameObject();
         _textMesh = _healthIndicator.AddComponent<TextMesh>();
-        _meshRenderer = _healthIndicator.AddComponent<MeshRenderer>();
 
         if (_healthChangeValue < 0)
         {
-            _meshRenderer.material.color = Color.red;
+            _textMesh.color = Color.red;
         }
         else
         {
-            _meshRenderer.material.color = Color.green;
+            _textMesh.color = Color.green;
         }
 
-        _healthIndicator.text = _healthChangeValue;
+        _textMesh.text = _healthChangeValue.ToString();
+        _textMesh.characterSize = 0.2f;
 
         _healthIndicator.transform.position = _target.transform.position;
     }
+    
 }
