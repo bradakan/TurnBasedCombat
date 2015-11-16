@@ -1,13 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TestStuff : MonoBehaviour {
+public class TestStuff : BaseWeapon {
 
 	// Use this for initialization
 	void Start ()
     {
-        BaseWeapon temp = GetComponent<BaseWeapon>();
-        temp._damageType = BaseWeapon.DamageTypes.slashing;
-        Debug.Log(temp._damageType);
+        damageType = DamageTypes.DamageType.slashing;
+        damage = 10;
 	}
+
+    void Test()
+    {
+        Debug.Log("test");
+    }
 }
