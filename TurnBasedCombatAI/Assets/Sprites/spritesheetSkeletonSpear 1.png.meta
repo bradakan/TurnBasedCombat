@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 216e7a76b162e8a4e8512a59b593288e
+timeCreated: 1447763201
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheetSkeletonSpear 1_0
+    21300002: spritesheetSkeletonSpear 1_1
+    21300004: spritesheetSkeletonSpear 1_2
+    21300006: spritesheetSkeletonSpear 1_3
+    21300008: spritesheetSkeletonSpear 1_4
+    21300010: spritesheetSkeletonSpear 1_5
+    21300012: spritesheetSkeletonSpear 1_6
+    21300014: spritesheetSkeletonSpear 1_7
+    21300016: spritesheetSkeletonSpear 1_8
+    21300018: spritesheetSkeletonSpear 1_9
+    21300020: spritesheetSkeletonSpear 1_10
+    21300022: spritesheetSkeletonSpear 1_11
+    21300024: spritesheetSkeletonSpear 1_12
+    21300026: spritesheetSkeletonSpear 1_13
+    21300028: spritesheetSkeletonSpear 1_14
+    21300030: spritesheetSkeletonSpear 1_15
+    21300032: spritesheetSkeletonSpear 1_16
+    21300034: spritesheetSkeletonSpear 1_17
+    21300036: spritesheetSkeletonSpear 1_18
+    21300038: spritesheetSkeletonSpear 1_19
+    21300040: spritesheetSkeletonSpear 1_20
+    21300042: spritesheetSkeletonSpear 1_21
+    21300044: spritesheetSkeletonSpear 1_22
+    21300046: spritesheetSkeletonSpear 1_23
+    21300048: spritesheetSkeletonSpear 1_24
+    21300050: spritesheetSkeletonSpear 1_25
+    21300052: spritesheetSkeletonSpear 1_26
+    21300054: spritesheetSkeletonSpear 1_27
+    21300056: spritesheetSkeletonSpear 1_28
+    21300058: spritesheetSkeletonSpear 1_29
+    21300060: spritesheetSkeletonSpear 1_30
+    21300062: spritesheetSkeletonSpear 1_31
+    21300064: spritesheetSkeletonSpear 1_32
+    21300066: spritesheetSkeletonSpear 1_33
+    21300068: spritesheetSkeletonSpear 1_34
+    21300070: spritesheetSkeletonSpear 1_35
+    21300072: spritesheetSkeletonSpear 1_36
+    21300074: spritesheetSkeletonSpear 1_37
+    21300076: spritesheetSkeletonSpear 1_38
+    21300078: spritesheetSkeletonSpear 1_39
+    21300080: spritesheetSkeletonSpear 1_40
+    21300082: spritesheetSkeletonSpear 1_41
+    21300084: spritesheetSkeletonSpear 1_42
+    21300086: spritesheetSkeletonSpear 1_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheetSkeletonSpear 1_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 331
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 331
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 331
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 331
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 331
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 331
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 331
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 331
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 332
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 332
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 332
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 333
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 331
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 266
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 268
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 272
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 274
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 274
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 273
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 272
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 270
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 271
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 271
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 271
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: .381772101, y: .723957598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 41
+        height: 34
+      alignment: 9
+      pivot: {x: .387539387, y: .689860165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 41
+        height: 32
+      alignment: 9
+      pivot: {x: .421277672, y: .802589893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 200
+        width: 41
+        height: 33
+      alignment: 9
+      pivot: {x: .387539387, y: .709585965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 202
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: .387289435, y: .788180351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 202
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: .428275555, y: .793420017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 203
+        width: 45
+        height: 33
+      alignment: 9
+      pivot: {x: .500000656, y: .751503229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 204
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: .499999315, y: .701726437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 206
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: .6467098, y: .752855361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 207
+        width: 43
+        height: 30
+      alignment: 9
+      pivot: {x: .682290733, y: .822762549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 69
+        height: 31
+      alignment: 9
+      pivot: {x: .319574058, y: .752854884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 67
+        height: 31
+      alignment: 9
+      pivot: {x: .3073062, y: .767728746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 158
+        width: 43
+        height: 30
+      alignment: 9
+      pivot: {x: .660845041, y: .761283875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 159
+        width: 44
+        height: 31
+      alignment: 9
+      pivot: {x: .615271807, y: .767729223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 159
+        width: 45
+        height: 32
+      alignment: 9
+      pivot: {x: .540985763, y: .744954109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 52
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeletonSpear 1_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 52
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

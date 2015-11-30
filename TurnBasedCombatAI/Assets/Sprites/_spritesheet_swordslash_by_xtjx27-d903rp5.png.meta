@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 1ef56f2735df6764aa4899278cdc782d
+timeCreated: 1447757438
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: _spritesheet_swordslash_by_xtjx27-d903rp5_0
+    21300002: _spritesheet_swordslash_by_xtjx27-d903rp5_1
+    21300004: _spritesheet_swordslash_by_xtjx27-d903rp5_2
+    21300006: _spritesheet_swordslash_by_xtjx27-d903rp5_3
+    21300008: _spritesheet_swordslash_by_xtjx27-d903rp5_4
+    21300010: _spritesheet_swordslash_by_xtjx27-d903rp5_5
+    21300012: _spritesheet_swordslash_by_xtjx27-d903rp5_6
+    21300014: _spritesheet_swordslash_by_xtjx27-d903rp5_7
+    21300016: _spritesheet_swordslash_by_xtjx27-d903rp5_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 133
+        height: 195
+      alignment: 9
+      pivot: {x: .165991992, y: .133875757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_1
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 73
+        width: 113
+        height: 233
+      alignment: 9
+      pivot: {x: .191116467, y: .0710218027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 73
+        width: 134
+        height: 238
+      alignment: 9
+      pivot: {x: .334242195, y: .060035672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_3
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 77
+        width: 161
+        height: 229
+      alignment: 9
+      pivot: {x: .431019664, y: .0843131691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_4
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 73
+        width: 134
+        height: 282
+      alignment: 9
+      pivot: {x: .215843543, y: .0667963475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_5
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 73
+        width: 183
+        height: 238
+      alignment: 9
+      pivot: {x: .0751886442, y: .060035672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_6
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 73
+        width: 184
+        height: 161
+      alignment: 9
+      pivot: {x: .0774980634, y: .0959748924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: _spritesheet_swordslash_by_xtjx27-d903rp5_7
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 66
+        width: 144
+        height: 140
+      alignment: 9
+      pivot: {x: .114382423, y: .14869532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

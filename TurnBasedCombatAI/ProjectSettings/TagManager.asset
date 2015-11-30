@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Canvas
   - Enemy
+  - Animation
+  - TurnHandler
+  - PlayerMoveToAttack
+  - EnemyMoveToAttack
   layers:
   - Default
   - TransparentFX

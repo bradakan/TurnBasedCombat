@@ -6,33 +6,64 @@ public class CharacterBehavior : MonoBehaviour
 {
 
     //TODO convert this to character behavior
+    private const string _playerTag = "Player";
+    private const string _EnemyTag = "Enemy";
+    private const string _animTag = "Animation";
+    private const string _turnHandler = "TurnHandler";
+    private const string _attackAnimString = "Attack";
     private int hp = 100;
+    Animator anim;
     public BaseWeapon weapon;
     public List<DamageTypes.DamageType> resist;
     public List<DamageTypes.DamageType> vunerable;
     public CanvasObjectFollowGameObject hpIndicator;
+    public int maxHp;
+    TurnHandler turnhandler;
 
     // Use this for initialization
     void Start()
     {
+        foreach (Transform child in transform)
+        {
+            if (child.tag == _animTag)
+            {
+                anim = child.GetComponent<Animator>();
+                break;
+            }
+        }
+        hp = maxHp;
         hpIndicator = GetComponentInChildren<CanvasObjectFollowGameObject>();
         weapon = GetComponent<BaseWeapon>();
         BaseArmor tempArmorVar = GetComponent<BaseArmor>();
         resist = tempArmorVar.resist;
         vunerable = tempArmorVar.vunerable;
+        hpIndicator.ChangeText(hp);
+        turnhandler = GameObject.FindGameObjectWithTag(_turnHandler).GetComponent<TurnHandler>();
     }
 
     public void Attack()
     {
-        if (tag == "Player")
+        //TODO move to point
+        anim.SetTrigger(_attackAnimString);
+        turnhandler.SwitchTurn();
+        
+    }
+
+    //TODO function om terug naar start te moven
+    public void MoveBackToStartPos()
+    {
+
+    }
+
+    public void DealDamage()
+    {
+        if (tag == _playerTag)
         {
-            GameObject.FindGameObjectWithTag("Enemy").GetComponent<CharacterBehavior>().TakeDamage(weapon);
-            Debug.Log("attack enemy");
+            GameObject.FindGameObjectWithTag(_EnemyTag).GetComponent<CharacterBehavior>().TakeDamage(weapon);
         }
         else
         {
-            GameObject.FindGameObjectWithTag("Player").GetComponent<CharacterBehavior>().TakeDamage(weapon);
-            Debug.Log("attack Player");
+            GameObject.FindGameObjectWithTag(_playerTag).GetComponent<CharacterBehavior>().TakeDamage(weapon);
         }
     }
     /*
@@ -44,10 +75,7 @@ public class CharacterBehavior : MonoBehaviour
     */
     public void TakeDamage(BaseWeapon damageSource)
     {
-        if (GetComponent<CanvasDamagePopUp>())
-        {
-            GetComponent<CanvasDamagePopUp>().SpawnDamagePopUp(damageSource);
-        }
+        
         float damage = 0;
         if (resist.Contains(damageSource.damageType))
         {
@@ -62,8 +90,11 @@ public class CharacterBehavior : MonoBehaviour
         {
             damage = damageSource.damage;
         }
-        Debug.Log(damage);
         ChangeHealth((int)damage);
+        if (GetComponent<CanvasDamagePopUp>())
+        {
+            GetComponent<CanvasDamagePopUp>().SpawnDamagePopUp((int)damage);
+        }
     }
 
     public void ChangeHealth(int value)

@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: f9a51ae0c42357b4faae06152140137a
+timeCreated: 1447760290
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheetSkeleton_0
+    21300002: spritesheetSkeleton_1
+    21300004: spritesheetSkeleton_2
+    21300006: spritesheetSkeleton_3
+    21300008: spritesheetSkeleton_4
+    21300010: spritesheetSkeleton_5
+    21300012: spritesheetSkeleton_6
+    21300014: spritesheetSkeleton_7
+    21300016: spritesheetSkeleton_8
+    21300018: spritesheetSkeleton_9
+    21300020: spritesheetSkeleton_10
+    21300022: spritesheetSkeleton_11
+    21300024: spritesheetSkeleton_12
+    21300026: spritesheetSkeleton_13
+    21300028: spritesheetSkeleton_14
+    21300030: spritesheetSkeleton_15
+    21300032: spritesheetSkeleton_16
+    21300034: spritesheetSkeleton_17
+    21300036: spritesheetSkeleton_18
+    21300038: spritesheetSkeleton_19
+    21300040: spritesheetSkeleton_20
+    21300042: spritesheetSkeleton_21
+    21300044: spritesheetSkeleton_22
+    21300046: spritesheetSkeleton_23
+    21300048: spritesheetSkeleton_24
+    21300050: spritesheetSkeleton_25
+    21300052: spritesheetSkeleton_26
+    21300054: spritesheetSkeleton_27
+    21300056: spritesheetSkeleton_28
+    21300058: spritesheetSkeleton_29
+    21300060: spritesheetSkeleton_30
+    21300062: spritesheetSkeleton_31
+    21300064: spritesheetSkeleton_32
+    21300066: spritesheetSkeleton_33
+    21300068: spritesheetSkeleton_34
+    21300070: spritesheetSkeleton_35
+    21300072: spritesheetSkeleton_36
+    21300074: spritesheetSkeleton_37
+    21300076: spritesheetSkeleton_38
+    21300078: spritesheetSkeleton_39
+    21300080: spritesheetSkeleton_40
+    21300082: spritesheetSkeleton_41
+    21300084: spritesheetSkeleton_42
+    21300086: spritesheetSkeleton_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheetSkeleton_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 331
+        width: 36
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 331
+        width: 40
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 331
+        width: 33
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 331
+        width: 33
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 331
+        width: 33
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 331
+        width: 33
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 331
+        width: 35
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 331
+        width: 36
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 332
+        width: 37
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 332
+        width: 33
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 332
+        width: 34
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 333
+        width: 37
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_12
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 331
+        width: 35
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 266
+        width: 31
+        height: 53
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_14
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 268
+        width: 50
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 32
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 272
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_17
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 274
+        width: 38
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 274
+        width: 37
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 273
+        width: 40
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 272
+        width: 40
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_21
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 270
+        width: 39
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 271
+        width: 37
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_23
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 271
+        width: 37
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 271
+        width: 36
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 39
+        height: 35
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 198
+        width: 41
+        height: 34
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 41
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 200
+        width: 41
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 202
+        width: 45
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 202
+        width: 45
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 203
+        width: 45
+        height: 33
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_32
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 204
+        width: 45
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_33
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 206
+        width: 44
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_34
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 207
+        width: 43
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 160
+        width: 69
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 67
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 158
+        width: 43
+        height: 30
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 159
+        width: 44
+        height: 31
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_39
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 159
+        width: 45
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 50
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_41
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 108
+        width: 48
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 73
+        width: 52
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetSkeleton_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 52
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
